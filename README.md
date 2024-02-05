@@ -9,7 +9,7 @@ In this data-driven adventure, I have explored Melbourne's real estate trends, u
 1. Azure Databricks: Collaborative analytics for data exploration using PySpark and SQL
 2. Azure Blob Storage : Efficiently managing and storing massive datasets.
 
-# Observations 
+# Observations
 1. Created a dataframe to filter data based on the combination of Suburb, Property Type and Bedrooms by using the widget utility of databricks.
 2. Identified regions of Melbourne including metropolitan and non-metropolitan and their average prices.
 3. Found the top 10 most expensive and cheapest suburbs in Melbourne based on the data that we have. From Toorak to Malvern, the affluence reflected in the soaring property prices
